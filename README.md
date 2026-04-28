@@ -27,7 +27,7 @@ Excel (Power Query for data cleaning, charts for visualization)
    Women+ wages across 2024, 2025, and 2026
 6. Created a line chart showing the wage trend over time 
    for both groups
-## Key Findings
+
 ## Key Findings
 - Women+ wages grew at approximately 9.1% over the two year 
   period compared to 7.2% for Men+ — about 2 percentage 
@@ -41,10 +41,10 @@ Excel (Power Query for data cleaning, charts for visualization)
 - Women started from a significantly lower wage base 
   ($1,318 vs $1,573 in March 2024), which is why faster 
   percentage growth hasn't closed the dollar gap meaningfully
+  
 ## Charts
 <img width="482" height="289" alt="image" src="https://github.com/user-attachments/assets/eedabcbd-5d19-4aca-ac36-1dd96a219660" />
 <img width="484" height="293" alt="image" src="https://github.com/user-attachments/assets/540c8b6a-ac7e-4249-9f1c-b4459d506a90" />
-
 
 ## How to Use This Repo
 - Start by reading this README to understand the question, 
