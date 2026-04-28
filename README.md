@@ -12,7 +12,7 @@ actually closing despite women's faster wage growth.
 The data came from Statistics Canada — specifically the table 'Average usual hours and wages by selected characteristics, monthly, unadjusted for seasonality' (Table 14-10-0320-02). It measures average weekly wages for full-time employees across various characteristics including gender, age, union status, and occupation type, covering March 2024 to March 2026
 ## Tools Used
 Excel (Power Query for data cleaning, charts for visualization)
-## Process
+
 ## Process
 1. Explored the Statistics Canada website to find a dataset 
    that sparked a question worth investigating
